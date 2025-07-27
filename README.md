@@ -1,0 +1,2 @@
+# Comparing-Optimizers-for-Multiclass-Classification-with-ANN
+The notebook compares the performance of three optimizers  (SGD), Adam, and RMSprop—in terms of training speed and accuracy. The dataset is preprocessed with standard scaling and one-hot encoding, and the ANN architecture consists of three hidden layers with ReLU activation and a softmax output layer for the seven-class classification task.
